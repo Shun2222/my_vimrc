@@ -1,2 +1,2 @@
-# how to set the file
+# How to use
 cp .vimrc ~/.vimrc
