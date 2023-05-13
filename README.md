@@ -1,2 +1,2 @@
 # How to use
-cp .vimrc ~/.vimrc
+sh build.sh
