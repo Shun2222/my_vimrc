@@ -15,3 +15,4 @@ set ignorecase
 set smartcase
 set autoindent
 set ruler
+colorscheme pablo
