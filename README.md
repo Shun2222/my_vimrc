@@ -1,2 +1,2 @@
 # How to use
-sh build.sh
+sh run.sh
