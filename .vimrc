@@ -15,4 +15,5 @@ set ignorecase
 set smartcase
 set autoindent
 set ruler
+set path+=$PWD/**
 colorscheme pablo
